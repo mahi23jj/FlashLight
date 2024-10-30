@@ -13,6 +13,12 @@ Welcome to the Flashlight App! This simple application utilizes the camera API t
 - **Fluter**: 
 - **Dart**: For implementing functionality using the camera API.
 - **Camera API**: To access and control the device's flashlight.
+  ![f1](https://github.com/user-attachments/assets/b6baf71f-f167-4f0a-b1dc-4f6a8893fec2
+
+  ![f2](https://github.com/user-attachments/assets/a0453210-8a4a-4116-9e2e-d0f3051415d2)
+
+
+
 
 ## Installation
 
